@@ -1,5 +1,6 @@
 /*
-    
+   Em chưa viết được theo kiểu struct 
+   Em viết tạm cách đơn giản này trước ạ!
 */
 #include <stdio.h>
 #include <conio.h>
